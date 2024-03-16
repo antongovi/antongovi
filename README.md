@@ -3,11 +3,10 @@
 <img align=right top='100' height='20%' width='30%' alt="GIF" src='https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47h3asshrkbwtnb4vjwnko03r7zie1rgnhi6ups9zn&rid=giphy.gif&ct=g'></img>
 
 
-<h4>💼 I’m currently working as a Data Analyst Cosultant</h4>
+<h4>💼 I’m working as a Data Analyst Cosultant</h4>
 <h4>🎓 Currently completing my Master's degree in Data Science</h4>
 
 <p>I am a passionate data analyst consultant and aspiring data scientist currently in the final year of my Master's degree in Data Science. I'm enthusiastic about leveraging data-driven insights to solve real-world problems and am particularly interested in machine learning and deep learning applications.</p>
-
 
 
 <br>
