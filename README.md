@@ -7,18 +7,13 @@
 
 <h4>💼 I’m currently working as a Data Analyst Cosultant</h4>
 <h4>🎓 Currently completing my Master's degree in Data Science</h4>
-<h4>📫 If you want to reach out you can write me on LinkedIn
-<a href='https://linkedin.com/in/anton-goma' >
-  <img width='20px' height='20px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin-logo-png'/>
- </a>
- </h4>
 
-
+<br>
 <h2>What You'll Find Here</h2>
 
 <p>On my GitHub profile, you'll find a collection of data science projects that showcase my skills and experience in various domains. These projects cover a range of topics, techniques, and tools relevant to data analysis and machine learning.</p>
 
-
+<br>
 <h2>Contact Me</h2>
 <p>I'm always open to collaboration opportunities or discussing data science. If you're interested in connecting, feel free to reach out to me via:</p>
 
@@ -26,9 +21,7 @@
   <img width='20px' height='20px' src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin-logo-png'/>
   LinkedIn: href='https://linkedin.com/in/anton-goma'
  </a> 
-  
+ LinkedIn: <a href='https://linkedin.com/in/anton-goma' ></a> 
  </h4>
 <h4>Email: antongv7@gmail.com</h4>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antongovi)](https://github.com/isardmart/github-readme-stats)
