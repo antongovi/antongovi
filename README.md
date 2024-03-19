@@ -18,6 +18,6 @@
 <h2>Contact Me</h2>
 <p>I'm always open to collaboration opportunities or discussing data science. If you're interested in connecting, feel free to reach out to me via:</p>
 
-<h4><p>&#128187;  LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">https://www.linkedin.com/in/yourprofile</a></p></h4>
+<h4><p>&#128187;  LinkedIn: <a href="https://www.linkedin.com/in/anton-goma">https://www.linkedin.com/in/anton-goma</a></p></h4>
 <h4>📩 Email: antongv7@gmail.com</h4>
 
